@@ -51,6 +51,7 @@
 
 @layer base {
   * {
+    @apply text-white;
     font-family: "Nunito Sans", sans-serif;
   }
 }
